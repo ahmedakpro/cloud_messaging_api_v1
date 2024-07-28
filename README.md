@@ -7,9 +7,9 @@ Test Firebase cloud messaging api v1 with flutter.
 3. Run > flutterfire configure . And select your firebase project.
 4. Get the 'google-services.json' and set it in <your-project-name>/android\app .
 5. Watch this video in youtube to know how to setup googleCloud
-   [![IMAGE ALT TEXT](http://img.youtube.com/vi/6TVatLpoKT-9AOqZ/0.jpg)](http://www.youtube.com/watch?v=6TVatLpoKT-9AOqZ)
+   [https://youtu.be/bsiywmvx3N4?si=6TVatLpoKT-9AOqZ]
 ## Demo
-![Test notify between tow app](./TestNotify.mp4 "Demo test")
+![Test notify between tow app](https://youtube.com/shorts/-gm9s7X3-OQ?si=rcwKh4PaR86CIquh)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
