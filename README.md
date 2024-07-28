@@ -1,6 +1,6 @@
 # test_example
 
-A new Flutter project.
+Test Firebase cloud messaging api v1 with flutter.
 
 ## Getting Started
 
