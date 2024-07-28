@@ -9,7 +9,8 @@ Test Firebase cloud messaging api v1 with flutter.
 5. Watch this video in youtube to know how to setup googleCloud ![Explanation](./video_img_git.jpg)(https://youtu.be/bsiywmvx3N4?si=6TVatLpoKT-9AOqZ)
 ## Demo
 ![Test](./test_img.jpg)
-![Test notify between tow app](https://youtube.com/shorts/-gm9s7X3-OQ?si=rcwKh4PaR86CIquh)
+![Test notify between tow app]
+(https://youtube.com/shorts/-gm9s7X3-OQ?si=rcwKh4PaR86CIquh)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
