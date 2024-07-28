@@ -1,7 +1,12 @@
 # test_example
 
 Test Firebase cloud messaging api v1 with flutter.
-
+## Firstly
+1. Run > firebase login . If you don't login to your firebase project.
+2. Run > dart pub global activate flutterfire_cli
+3. Run > flutterfire configure . And select your firebase project.
+4. Get the 'google-services.json' and set it in <your-project-name>/android\app .
+5. Watch this video in youtube <https://youtu.be/bsiywmvx3N4?si=6TVatLpoKT-9AOqZ> to know how to setup googleCloude.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
